@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "rowNumber": "1",
+      "fullName": "Faisal",
+      "Location": "Andheri",
+      "CGPA": "7.9"
+    },
+    {
+      "id": 2,
+      "rowNumber": "2",
+      "fullName": "Fatima",
+      "Location": "Borivali",
+      "CGPA": "8.8"
+    },
+    {
+      "id": 3,
+      "rowNumber": "3",
+      "fullName": "Rahul",
+      "Location": "Nagpada",
+      "CGPA": "6.5"
+    },
+    {
+      "id": 4,
+      "rowNumber": "4",
+      "fullName": "Smit",
+      "Location": "Siliguri",
+      "CGPA": "4.6"
+    },
+    {
+      "id": 5,
+      "rowNumber": "5",
+      "fullName": "King",
+      "Location": "Kurla",
+      "CGPA": "3.1"
+    }
+  ]
